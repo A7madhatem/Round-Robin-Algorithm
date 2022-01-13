@@ -1,0 +1,11 @@
+D:\vs_project\C#_projects\round_roben_algorithm\round_roben_algorithm\bin\Debug\round_roben_algorithm.exe.config
+D:\vs_project\C#_projects\round_roben_algorithm\round_roben_algorithm\bin\Debug\round_roben_algorithm.exe
+D:\vs_project\C#_projects\round_roben_algorithm\round_roben_algorithm\bin\Debug\round_roben_algorithm.pdb
+D:\vs_project\C#_projects\round_roben_algorithm\round_roben_algorithm\obj\Debug\round_roben_algorithm.csproj.AssemblyReference.cache
+D:\vs_project\C#_projects\round_roben_algorithm\round_roben_algorithm\obj\Debug\round_roben_algorithm.csproj.SuggestedBindingRedirects.cache
+D:\vs_project\C#_projects\round_roben_algorithm\round_roben_algorithm\obj\Debug\round_roben_algorithm.Form1.resources
+D:\vs_project\C#_projects\round_roben_algorithm\round_roben_algorithm\obj\Debug\round_roben_algorithm.Properties.Resources.resources
+D:\vs_project\C#_projects\round_roben_algorithm\round_roben_algorithm\obj\Debug\round_roben_algorithm.csproj.GenerateResource.cache
+D:\vs_project\C#_projects\round_roben_algorithm\round_roben_algorithm\obj\Debug\round_roben_algorithm.csproj.CoreCompileInputs.cache
+D:\vs_project\C#_projects\round_roben_algorithm\round_roben_algorithm\obj\Debug\round_roben_algorithm.exe
+D:\vs_project\C#_projects\round_roben_algorithm\round_roben_algorithm\obj\Debug\round_roben_algorithm.pdb
